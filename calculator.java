@@ -56,7 +56,7 @@ import java.util.Scanner;
 	   }
 	   //new message//
 	   
-																	            System.out.print("\n---------------------------------------\n");
+  System.out.print("\n---------------------------------------\n");
 	}while(choice != 5);       
     }
 }
