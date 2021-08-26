@@ -1,4 +1,5 @@
 /*This program will show demo on a simple calculator*/
+/* this program will add two numbers*/
 import java.util.Scanner;
 
  public class calculator
