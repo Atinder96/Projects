@@ -53,6 +53,8 @@ import java.util.Scanner;
 	      default : System.out.print("Wrong Choice!!!");
 	                break;
 	   }
+	   //new message//
+	   
 																	            System.out.print("\n---------------------------------------\n");
 	}while(choice != 5);       
     }
